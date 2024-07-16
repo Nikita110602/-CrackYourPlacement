@@ -1,3 +1,5 @@
+//FIND THE DUBLICATE NUMBER
+
 class Solution {
 public:
     int findDuplicate(std::vector<int>& nums) {
